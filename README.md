@@ -1,3 +1,7 @@
+## 🔗 Live Demo
+
+[Try the app here](https://ai-review-analyzer-am9leylaqrmrgnhxd4gswg.streamlit.app/)
+
 # 📝 AI Review Analyzer
 
 An AI-powered tool that analyzes product/service reviews and extracts **summary, sentiment, key themes, pros, and cons** — built using **LangChain**, **Google Gemini**, and **Streamlit**.
@@ -54,9 +58,6 @@ An AI-powered tool that analyzes product/service reviews and extracts **summary,
    streamlit run app.py
    ```
 
-## 🔗 Live Demo
-
-[Try the app here](your-streamlit-link-will-go-here)
 
 ## 👤 Author
 
